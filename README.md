@@ -94,11 +94,11 @@ A distribuição também é representada visualmente por meio de um gráfico de 
 
 ### Simulação de investimentos
 
-![Simulação de investimentos](imagens/parte1.png)
+![Simulação de investimentos](https://github.com/lanalivial/investimentos_excel/blob/main/imagens/PARTE1.png)
 
 ### Distribuição sugerida de investimentos
 
-![Distribuição de investimentos](imagens/parte2.png)
+![Distribuição de investimentos]([imagens/parte2.png](https://github.com/lanalivial/investimentos_excel/blob/main/imagens/PARTE2.png))
 
 ---
 
